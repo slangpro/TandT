@@ -172,7 +172,7 @@ function carousel() {
   <div class="modal-content">
   
     <p class="movingstyle">
-      Now enjoy this summer with most affordable price. Use code #SAURABH_SUMMER_BREAK
+      Now enjoy this summer with most affordable price.
     </p>
   </div>
 	<h3 class="p-text-teal" align="center">

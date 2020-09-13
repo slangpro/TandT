@@ -14,7 +14,7 @@ include("db.php");
 {
     background-color:#f1f1f1;
 }
-.cancelbtn {
+/*.cancelbtn {
     background-color: #009688;
     color: white;
     padding: 14px 20px;
@@ -24,7 +24,7 @@ include("db.php");
     width: 30%;
 	cursor:pointer;
 	float:right;
-}
+}*/
 .container{
 	width:60%;
 	margin-left:19%;
